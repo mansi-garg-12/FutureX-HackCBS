@@ -40,9 +40,11 @@ BACKEND: Machine Learning, Python<br>
 <ul>
 <li>
   <b>For Activating Environment</b> 
+  <br>
   ``` 
   myenv\Scripts\activate.ps1 
   ```
+  <br>
   <b>Run command</b> 
   ```
   flask run
