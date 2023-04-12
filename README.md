@@ -36,6 +36,23 @@ BACKEND: Machine Learning, Python<br>
 
 <h1>MVP LINK : </h1> https://future-x-hack-cbs.vercel.app/index.html <br>
 <h1>Project Demo :</h1>  https://www.youtube.com/watch?v=EhfVVP8pAFg
+<h1>Testing<h1>
+<ul>
+<li>
+For Activating Environment ``` myenv\Scripts\activate.ps1 ```
+Run command ```flask run```
+</li>
+<li>
+On click on start recognition the ASR will be activated
+on click on stop recognition the ASR will be deactivated
+</li>
+<li>
+On click view Video You will redirect to view page in which you will be able to see your video
+</li>
+<li>
+On click on download you can download your text and video
+</li>
+<ul>
 
 
 <h1>Future Scope</h1>
