@@ -36,7 +36,7 @@ BACKEND: Machine Learning, Python<br>
 
 <h1>MVP LINK : </h1> https://future-x-hack-cbs.vercel.app/index.html <br>
 <h1>Project Demo :</h1>  https://www.youtube.com/watch?v=EhfVVP8pAFg
-<h1>Testing<h1>
+<h1>Testing</h1>
 <ul>
 <li>
 For Activating Environment ``` myenv\Scripts\activate.ps1 ```
@@ -52,7 +52,7 @@ On click view Video You will redirect to view page in which you will be able to 
 <li>
 On click on download you can download your text and video
 </li>
-<ul>
+</ul>
 
 
 <h1>Future Scope</h1>
@@ -76,7 +76,7 @@ A company using subscriptions for services.
 Limited Free services for some users like  students and educators.
 </li>
 </li>
-<ul>
+</ul>
 
 
 
