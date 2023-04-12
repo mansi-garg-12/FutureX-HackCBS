@@ -8,8 +8,6 @@ We are building a system that will convert your story/speech into animated video
 For example , suppose you are telling your friend about an incident. What if I told you that you can see the entire incident on a real time video?<br>
 
 So, here is simple solution to this complex problem.<br>
-
-
 Our targeted audience are children who can visualize their imagination and funny thoughts.<br>
 We have divided our idea into four modules:<br>
 <ul>
@@ -37,20 +35,19 @@ BACKEND: Machine Learning, Python<br>
 <h1>MVP LINK : </h1> https://future-x-hack-cbs.vercel.app/index.html <br>
 <h1>Project Demo :</h1>  https://www.youtube.com/watch?v=EhfVVP8pAFg
 <h1>Testing</h1>
+<b>For Activating Environment</b> 
+  
+```
+myenv\Scripts\activate.ps1 
+```
+  
+  <b>Run command</b>
+  
+```
+flask run
+```
+  
 <ul>
-<li>
-  <b>For Activating Environment</b> 
-  <br>
-  '''
-  myenv\Scripts\activate.ps1 
-  '''
-  <br>
-  <b>Run command</b> 
-  <br>
-  '''
-  flask run
-  '''
-</li>
 <li>
 On click on start recognition the ASR will be activated
 on click on stop recognition the ASR will be deactivated
