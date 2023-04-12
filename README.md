@@ -39,8 +39,14 @@ BACKEND: Machine Learning, Python<br>
 <h1>Testing</h1>
 <ul>
 <li>
-For Activating Environment ``` myenv\Scripts\activate.ps1 ```
-Run command ```flask run```
+  <b>For Activating Environment</b> 
+  ``` 
+  myenv\Scripts\activate.ps1 
+  ```
+  <b>Run command</b> 
+  ```
+  flask run
+  ```
 </li>
 <li>
 On click on start recognition the ASR will be activated
